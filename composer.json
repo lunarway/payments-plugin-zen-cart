@@ -1,0 +1,11 @@
+{
+  "name": "lunar/plugin-zencart",
+  "description": "Lunar Zen Cart gateway development",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ionut Calara",
+      "email": "ionut.calara@gmail.com"
+    }
+  ]
+}
